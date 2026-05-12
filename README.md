@@ -6,4 +6,4 @@ Used rf inductors, could optimize more with proper power inductors. Also used an
 ![Alt text](./Pics/Schem.png "a title")
 
 # In action
-![Alt text](./Pics/foto.jpg "a title")
+![Alt text](./Pics/Foto.jpg "a title")
