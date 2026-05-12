@@ -3,7 +3,7 @@ Built a simple LC Tank circuit for funsies, works fine with 5V and 9V supplies, 
 Used rf inductors, could optimize more with proper power inductors. Also used another inductor as an antenna to drive an LED LOL.
 
 # Schematic
-![Alt text](./Pics/Schem.png "a title")
+![Alt text](./Pics/Schem.png "schematic")
 
 # In action
-![Alt text](./Pics/Foto.jpg "a title")
+![Alt text](./Pics/Foto.jpg "breadboard")
